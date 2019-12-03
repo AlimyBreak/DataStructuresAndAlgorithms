@@ -1,0 +1,6 @@
+selectionSort : 4.094 s
+insertionSort : 4.429 s
+insertionSort_opt : 2.118 s
+selectionSort : 4.016 s
+insertionSort : 0.016 s
+insertionSort_opt : 0 s

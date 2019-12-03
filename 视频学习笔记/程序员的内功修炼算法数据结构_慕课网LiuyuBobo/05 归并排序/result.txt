@@ -1,0 +1,7 @@
+insertionSort : 4.568 s
+bubbleSort : 10.722 s
+mergeSort : 0.016 s
+insertionSort : 0.016 s
+bubbleSort : 3.736 s
+mergeSort : 0 s
+mergeSort_Bottom2Top : 0 s

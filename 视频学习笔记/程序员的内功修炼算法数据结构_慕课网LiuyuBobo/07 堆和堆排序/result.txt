@@ -1,0 +1,27 @@
+ Random Array: size = 50000,range [ 0 ~50000]
+SelectionSort : 4.111 s
+BubbleSort : 16.295 s
+insertionSort : 8.711 s
+mergeSort : 0.014 s
+heapSort1 : 0.025 s
+heapSort2 : 0.022 s
+heapSort3 : 0.021 s
+quickSort3ways : 0.018 s
+ Random Array: size = 50000,NearlyOrdered [ 0 ~ 50000],swap_times :30
+SelectionSort : 4.201 s
+BubbleSort : 3.847 s
+insertionSort : 0.01 s
+mergeSort : 0.002 s
+heapSort1 : 0.023 s
+heapSort2 : 0.016 s
+heapSort3 : 0.016 s
+quickSort3ways : 0.015 s
+ Random Array: size = 50000,range [ 0 ~10]
+SelectionSort : 4.258 s
+BubbleSort : 15.397 s
+insertionSort : 7.642 s
+mergeSort : 0 s
+heapSort1 : 0.031 s
+heapSort2 : 0.016 s
+heapSort3 : 0.015 s
+quickSort3ways : 0 s

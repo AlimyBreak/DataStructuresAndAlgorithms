@@ -1,0 +1,20 @@
+I am a DenseGraph!
+vertex 0:	NULL	NULL	0.26	NULL	0.38	NULL	0.58	0.16	
+vertex 1:	NULL	NULL	0.36	0.29	NULL	0.32	NULL	0.19	
+vertex 2:	0.26	0.36	NULL	0.17	NULL	NULL	0.40	0.34	
+vertex 3:	NULL	0.29	0.17	NULL	NULL	NULL	0.52	NULL	
+vertex 4:	0.38	NULL	NULL	NULL	NULL	0.35	0.93	0.37	
+vertex 5:	NULL	0.32	NULL	NULL	0.35	NULL	NULL	0.28	
+vertex 6:	0.58	NULL	0.40	0.52	0.93	NULL	NULL	NULL	
+vertex 7:	0.16	0.19	0.34	NULL	0.37	0.28	NULL	NULL	
+
+I am a SparseGraph!
+vertex 0:	( to:7,wt0.16)	( to:4,wt0.38)	( to:2,wt0.26)	( to:6,wt0.58)	
+vertex 1:	( to:5,wt0.32)	( to:7,wt0.19)	( to:2,wt0.36)	( to:3,wt0.29)	
+vertex 2:	( to:3,wt0.17)	( to:0,wt0.26)	( to:1,wt0.36)	( to:7,wt0.34)	( to:6,wt0.40)	
+vertex 3:	( to:2,wt0.17)	( to:1,wt0.29)	( to:6,wt0.52)	
+vertex 4:	( to:5,wt0.35)	( to:7,wt0.37)	( to:0,wt0.38)	( to:6,wt0.93)	
+vertex 5:	( to:4,wt0.35)	( to:7,wt0.28)	( to:1,wt0.32)	
+vertex 6:	( to:2,wt0.40)	( to:3,wt0.52)	( to:0,wt0.58)	( to:4,wt0.93)	
+vertex 7:	( to:4,wt0.37)	( to:5,wt0.28)	( to:0,wt0.16)	( to:1,wt0.19)	( to:2,wt0.34)	
+

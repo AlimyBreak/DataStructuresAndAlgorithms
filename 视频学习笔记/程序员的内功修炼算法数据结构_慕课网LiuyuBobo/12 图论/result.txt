@@ -1,0 +1,8 @@
+SparseGraph DFS:
+0 -->  1 -->  2 -->  3 -->  4 -->  5 -->  6
+DenseGraph DFS:
+0 -->  1 -->  2 -->  3 -->  4 -->  5 -->  6 -->  7
+SparseGraph BFS:4
+0 -->  9 -->  8 -->  7 -->  6
+DenseGraph BFS:3
+0 -->  9 -->  8 -->  7

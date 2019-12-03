@@ -1,0 +1,6 @@
+selectionSort : 0 s
+selectionSort : 0.165 s
+selectionSort : 21.37 s
+selectionSort : 0.009 s
+selectionSort : 0.184 s
+selectionSort : 18.809 s
